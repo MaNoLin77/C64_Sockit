@@ -1,3 +1,9 @@
+# C64 for Sockit (Mister)
+
+Ported from https://github.com/MiSTer-devel/C64_MiSTer according from Somhi sockit template.
+
+Follows original readme file.
+
 # C64 for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 Based on FPGA64 by Peter Wendrich with heavy later modifications by different people.
